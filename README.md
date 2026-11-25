@@ -10,7 +10,7 @@ A curated list of the best dynasty fantasy football trade calculators and value 
 | 2 | [KeepTradeCut](https://keeptradecut.com/) | Crowd-sourced market sentiment (millions of user votes) | ✅ | ✅ | ❌ |
 | 3 | [FantasyCalc](https://fantasycalc.com/) | Values computed from millions of real completed trades | Limited | ✅ | ❌ |
 | 4 | [DynastyProcess](https://dynastyprocess.com/) | Open-source analytics and deep value models | ✅ | ✅ | Partial |
-| 5 | [DynastyDealer](https://dynastydealer.com/) | Clean free calculator + free values API | ✅ | ❌ | ❌ |
+| 5 | [DynastyDealer](https://dynastydealer.com/) | Clean free calculator + free values API | ✅ | ✅ | ❌ |
 | 6 | [RosterAudit](https://rosteraudit.com/) | Roster-wide second opinions | ✅ | Partial | ❌ |
 | 7 | [SmashAcceptFF](https://smashacceptff.com/) | Fast minimal two-side grades | ✅ | ❌ | ❌ |
 
